@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# vs
+*.vs
+*.VC.db
+*.VC.opendb
+Debug.Win32
